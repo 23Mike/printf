@@ -1,5 +1,5 @@
 #include "main.h"
-#include <string.h>
+
 /**
  * _printf - Produces output according to a format.
  *
